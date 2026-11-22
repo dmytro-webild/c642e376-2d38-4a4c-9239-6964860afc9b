@@ -1,0 +1,12 @@
+src/components/Layout.tsx
+src/components/sections/faq/FaqTrayAccordion.tsx
+src/components/sections/features/FeaturesBentoWidgets.tsx
+src/components/sections/features/FeaturesStackingTilesMakro.tsx
+src/components/sections/features/FeaturesStepWashCards.tsx
+src/components/sections/footer/FooterTrayWordmark.tsx
+src/components/sections/gallery/GalleryTiltCards.tsx
+src/components/sections/hero/HeroBoardFrame.tsx
+src/components/sections/pricing/PricingTrayPlans.tsx
+src/components/sections/statement/StatementDarkPanelBoard.tsx
+src/components/sections/testimonial/TestimonialSpotlightCarousel.tsx
+src/pages/HomePage.tsx
